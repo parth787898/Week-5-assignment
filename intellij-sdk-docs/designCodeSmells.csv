@@ -1,0 +1,122 @@
+Project Name,Package Name,Type Name,Code Smell
+intellij-sdk-docs,icons,SdkIcons,Unnecessary Abstraction
+intellij-sdk-docs,icons,SdkIcons,Deficient Encapsulation
+intellij-sdk-docs,icons,SdkIcons,Unnecessary Abstraction
+intellij-sdk-docs,icons,SdkIcons,Unutilized Abstraction
+intellij-sdk-docs,icons,SdkIcons,Deficient Encapsulation
+intellij-sdk-docs,icons,SdkIcons,Unnecessary Abstraction
+intellij-sdk-docs,icons,SdkIcons,Unutilized Abstraction
+intellij-sdk-docs,icons,SdkIcons,Deficient Encapsulation
+intellij-sdk-docs,icons,SdkIcons,Unnecessary Abstraction
+intellij-sdk-docs,icons,SdkIcons,Unutilized Abstraction
+intellij-sdk-docs,icons,SdkIcons,Deficient Encapsulation
+intellij-sdk-docs,icons,SdkIcons,Unnecessary Abstraction
+intellij-sdk-docs,icons,SdkIcons,Unutilized Abstraction
+intellij-sdk-docs,icons,SdkIcons,Deficient Encapsulation
+intellij-sdk-docs,icons,SdkIcons,Unnecessary Abstraction
+intellij-sdk-docs,icons,SdkIcons,Unutilized Abstraction
+intellij-sdk-docs,icons,SdkIcons,Deficient Encapsulation
+intellij-sdk-docs,icons,SdkIcons,Unnecessary Abstraction
+intellij-sdk-docs,icons,SdkIcons,Unutilized Abstraction
+intellij-sdk-docs,icons,SdkIcons,Deficient Encapsulation
+intellij-sdk-docs,org.intellij.sdk.action,CustomDefaultActionGroup,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.action,DynamicActionGroup,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.action,PopupDialogAction,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.codeInspection,ComparingStringReferencesInspection,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.codeInspection,InspectionBundle,Deficient Encapsulation
+intellij-sdk-docs,org.intellij.sdk.codeInspection,ComparingStringReferencesInspectionTest,Unutilized Abstraction
+intellij-sdk-docs,(default package),Eq,Unutilized Abstraction
+intellij-sdk-docs,(default package),Eq,Unutilized Abstraction
+intellij-sdk-docs,(default package),Neq,Unutilized Abstraction
+intellij-sdk-docs,(default package),Neq,Unutilized Abstraction
+intellij-sdk-docs,(default package),X,Unutilized Abstraction
+intellij-sdk-docs,(default package),X,Unutilized Abstraction
+intellij-sdk-docs,(default package),Test,Unutilized Abstraction
+intellij-sdk-docs,(default package),Test,Unutilized Abstraction
+intellij-sdk-docs,(default package),Test,Unutilized Abstraction
+intellij-sdk-docs,(default package),Test,Unutilized Abstraction
+intellij-sdk-docs,(default package),Test,Unutilized Abstraction
+intellij-sdk-docs,(default package),Test,Unutilized Abstraction
+intellij-sdk-docs,(default package),Test,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.intention,ConditionalOperatorConverter,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.intention,ConditionalOperatorConverterTest,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.editor,EditorAreaIllustration,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.editor,EditorHandlerIllustration,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.editor,EditorIllustrationAction,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.editor,MyTypedHandler,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.facet,DemoFacet,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.facet,DemoFacetEditorTab,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.facet,DemoFacetState,Deficient Encapsulation
+intellij-sdk-docs,org.intellij.sdk.facet,DemoFacetType,Deficient Encapsulation
+intellij-sdk-docs,org.intellij.sdk.framework,DemoFramework,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.framework,DemoFramework,Deficient Encapsulation
+intellij-sdk-docs,org.intellij.sdk.liveTemplates,MarkdownContext,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.liveTemplates,TitleCaseMacro,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.maxOpenProjects,ProjectCloseListener,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.maxOpenProjects,ProjectOpenStartupActivity,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.module,DemoModuleBuilder,Cyclic-Dependent Modularization
+intellij-sdk-docs,org.intellij.sdk.module,DemoModuleType,Cyclic-Dependent Modularization
+intellij-sdk-docs,org.intellij.sdk.module,DemoModuleWizardStep,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.pycharm,PopupDialogAction,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.project.model,LibrariesAction,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.project.model,ModificationAction,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.project.model,ProjectFileIndexSampleAction,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.project.model,ProjectSdkAction,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.project.model,ShowSourceRootsActions,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.view.pane,ImagesProjectViewPane,Deficient Encapsulation
+intellij-sdk-docs,org.intellij.sdk.project.wizard,DemoModuleWizardStep,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.psi,PsiNavigationDemoAction,Unutilized Abstraction
+intellij-sdk-docs,org.jetbrains.sdk.runConfiguration,DemoConfigurationFactory,Unutilized Abstraction
+intellij-sdk-docs,org.jetbrains.sdk.runConfiguration,DemoRunConfigurationOptions,Unutilized Abstraction
+intellij-sdk-docs,org.jetbrains.sdk.runConfiguration,DemoSettingsEditor,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.settings,AppSettingsConfigurable,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.settings,AppSettingsState,Deficient Encapsulation
+intellij-sdk-docs,org.intellij.sdk.language.psi.impl,SimplePropertyImpl,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language.psi.impl,SimplePropertyImpl,Broken Hierarchy
+intellij-sdk-docs,org.intellij.sdk.language.psi.impl,SimpleNamedElementImpl,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language.psi,Factory,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language.psi,SimpleElementType,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language.psi,SimpleNamedElement,Unnecessary Abstraction
+intellij-sdk-docs,org.intellij.sdk.language.psi,SimpleTokenSets,Unnecessary Abstraction
+intellij-sdk-docs,org.intellij.sdk.language.psi,SimpleTokenType,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleLexer,Deficient Encapsulation
+intellij-sdk-docs,org.intellij.sdk.language,SimpleAnnotator,Deficient Encapsulation
+intellij-sdk-docs,org.intellij.sdk.language,SimpleBlock,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleChooseByNameContributor,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleCodeStyleSettings,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleCodeStyleSettingsProvider,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleCodeStyleMainPanel,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleColorSettingsPage,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleCommenter,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleCompletionContributor,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleCreatePropertyQuickFix,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleDocumentationProvider,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleFileType,Deficient Encapsulation
+intellij-sdk-docs,org.intellij.sdk.language,SimpleFindUsagesProvider,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleFoldingBuilder,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleIcons,Unnecessary Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleIcons,Deficient Encapsulation
+intellij-sdk-docs,org.intellij.sdk.language,SimpleLanguage,Deficient Encapsulation
+intellij-sdk-docs,org.intellij.sdk.language,SimpleLanguageCodeStyleSettingsProvider,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleLexerAdapter,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleLineMarkerProvider,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleParserDefinition,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleParserDefinition,Deficient Encapsulation
+intellij-sdk-docs,org.intellij.sdk.language,SimplePropertyIconProvider,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleRefactoringSupportProvider,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleReference,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleReferenceContributor,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleSpellcheckingStrategy,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleCommentTokenizer,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimplePropertyTokenizer,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleStructureAwareNavbar,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleStructureViewElement,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleStructureViewFactory,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleStructureViewModel,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleSyntaxHighlighter,Deficient Encapsulation
+intellij-sdk-docs,org.intellij.sdk.language,SimpleSyntaxHighlighterFactory,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleCodeInsightTest,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.language,SimpleParsingTest,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.toolWindow,CalendarToolWindowFactory,Multifaceted Abstraction
+intellij-sdk-docs,org.intellij.sdk.toolWindow,CalendarToolWindowFactory,Unutilized Abstraction
+intellij-sdk-docs,org.intellij.sdk.treeStructureProvider,TextOnlyTreeStructureProvider,Unutilized Abstraction

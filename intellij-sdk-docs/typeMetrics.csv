@@ -1,0 +1,121 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+intellij-sdk-docs,icons,SdkIcons,1,1,0,0,3,0,0,0,-1.0,5,0
+intellij-sdk-docs,icons,SdkIcons,1,1,0,0,3,0,0,0,-1.0,0,0
+intellij-sdk-docs,icons,SdkIcons,1,1,0,0,3,0,0,0,-1.0,0,0
+intellij-sdk-docs,icons,SdkIcons,1,1,0,0,3,0,0,0,-1.0,0,0
+intellij-sdk-docs,icons,SdkIcons,1,1,0,0,3,0,0,0,-1.0,0,0
+intellij-sdk-docs,icons,SdkIcons,1,1,0,0,3,0,0,0,-1.0,0,0
+intellij-sdk-docs,icons,SdkIcons,1,1,0,0,3,0,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.action,CustomDefaultActionGroup,0,0,2,2,17,2,0,0,-1.0,0,1
+intellij-sdk-docs,org.intellij.sdk.action,DynamicActionGroup,0,0,1,1,13,1,0,0,-1.0,0,1
+intellij-sdk-docs,org.intellij.sdk.action,PopupDialogAction,0,0,5,5,37,6,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.codeInspection,ComparingStringReferencesInspection,1,0,7,5,83,17,0,0,0.8571428571428571,0,2
+intellij-sdk-docs,org.intellij.sdk.codeInspection,ReplaceWithEqualsQuickFix,0,0,3,3,38,5,0,0,-1.0,1,1
+intellij-sdk-docs,org.intellij.sdk.codeInspection,InspectionBundle,2,1,2,1,10,2,0,0,0.0,3,1
+intellij-sdk-docs,org.intellij.sdk.codeInspection,ComparingStringReferencesInspectionTest,1,0,5,2,40,5,0,0,0.6,0,0
+intellij-sdk-docs,(default package),Eq,0,0,1,1,5,1,0,0,-1.0,0,0
+intellij-sdk-docs,(default package),Eq,0,0,1,1,5,1,0,0,-1.0,0,0
+intellij-sdk-docs,(default package),Neq,0,0,1,1,5,1,0,0,-1.0,0,0
+intellij-sdk-docs,(default package),Neq,0,0,1,1,5,1,0,0,-1.0,0,0
+intellij-sdk-docs,(default package),X,0,0,1,0,12,2,0,0,-1.0,0,0
+intellij-sdk-docs,(default package),X,0,0,1,0,5,1,0,0,-1.0,0,0
+intellij-sdk-docs,(default package),Test,0,0,1,1,8,1,0,0,-1.0,0,0
+intellij-sdk-docs,(default package),Test,0,0,1,1,5,1,0,0,-1.0,0,0
+intellij-sdk-docs,(default package),Test,0,0,1,1,5,1,0,0,-1.0,0,0
+intellij-sdk-docs,(default package),Test,0,0,1,1,5,1,0,0,-1.0,0,0
+intellij-sdk-docs,(default package),Test,0,0,3,3,9,3,0,0,-1.0,0,0
+intellij-sdk-docs,(default package),Test,0,0,1,1,5,1,0,0,-1.0,0,0
+intellij-sdk-docs,(default package),Test,0,0,1,1,5,1,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.intention,ConditionalOperatorConverter,0,0,4,4,126,22,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.intention,ConditionalOperatorConverterTest,0,0,3,1,19,3,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.editor,EditorAreaIllustration,0,0,3,3,31,3,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.editor,EditorHandlerIllustration,0,0,3,3,31,4,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.editor,EditorIllustrationAction,0,0,3,3,31,3,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.editor,MyTypedHandler,0,0,1,1,11,1,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.facet,DemoFacet,0,0,1,1,8,1,0,0,-1.0,0,1
+intellij-sdk-docs,org.intellij.sdk.facet,DemoFacetConfiguration,1,0,3,3,28,3,0,0,0.0,2,1
+intellij-sdk-docs,org.intellij.sdk.facet,DemoFacetEditorTab,3,0,6,6,62,6,0,0,0.3333333333333333,0,2
+intellij-sdk-docs,org.intellij.sdk.facet,DemoFacetState,2,1,3,2,16,3,0,0,0.0,2,0
+intellij-sdk-docs,org.intellij.sdk.facet,DemoFacetType,3,3,5,5,23,5,0,0,1.0,1,2
+intellij-sdk-docs,org.intellij.sdk.framework,DemoFramework,1,1,9,8,33,9,0,0,1.0,0,1
+intellij-sdk-docs,org.intellij.sdk.liveTemplates,MarkdownContext,0,0,2,1,8,2,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.liveTemplates,TitleCaseMacro,0,0,4,2,24,6,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.maxOpenProjects,ProjectCloseListener,0,0,1,1,12,2,0,0,-1.0,0,1
+intellij-sdk-docs,org.intellij.sdk.maxOpenProjects,ProjectCountingService,2,0,3,3,18,4,0,0,0.0,2,0
+intellij-sdk-docs,org.intellij.sdk.maxOpenProjects,ProjectOpenStartupActivity,0,0,1,1,17,3,0,0,-1.0,0,1
+intellij-sdk-docs,org.intellij.sdk.module,DemoModuleBuilder,0,0,3,3,10,3,0,0,-1.0,1,1
+intellij-sdk-docs,org.intellij.sdk.module,DemoModuleType,1,0,7,6,24,7,0,0,0.8571428571428571,1,2
+intellij-sdk-docs,org.intellij.sdk.module,DemoModuleWizardStep,0,0,2,2,7,2,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.pycharm,PopupDialogAction,0,0,2,2,21,2,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.project.model,LibrariesAction,0,0,3,3,66,17,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.project.model,ModificationAction,0,0,3,3,35,9,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.project.model,ProjectFileIndexSampleAction,0,0,3,3,32,5,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.project.model,ProjectSdkAction,0,0,3,3,24,6,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.project.model,ShowSourceRootsActions,0,0,3,3,23,5,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.view.pane,ImagesProjectNode,3,0,16,10,110,31,0,0,0.3125,1,2
+intellij-sdk-docs,org.intellij.sdk.view.pane,ImagesProjectViewPane,1,1,15,10,58,17,0,0,0.7333333333333333,1,0
+intellij-sdk-docs,org.intellij.sdk.project.wizard,DemoModuleWizardStep,0,0,5,5,17,5,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.psi,PsiNavigationDemoAction,0,0,4,4,38,7,0,0,-1.0,0,0
+intellij-sdk-docs,org.jetbrains.sdk.runConfiguration,DemoConfigurationFactory,0,0,4,3,14,4,0,0,-1.0,0,1
+intellij-sdk-docs,org.jetbrains.sdk.runConfiguration,DemoRunConfiguration,0,0,7,4,28,7,0,0,-1.0,1,0
+intellij-sdk-docs,org.jetbrains.sdk.runConfiguration,DemoRunConfigurationOptions,1,0,2,2,9,2,0,0,0.0,0,0
+intellij-sdk-docs,org.jetbrains.sdk.runConfiguration,DemoRunConfigurationType,1,0,1,0,7,1,0,0,0.0,1,0
+intellij-sdk-docs,org.jetbrains.sdk.runConfiguration,DemoSettingsEditor,2,0,4,1,18,4,0,0,0.0,0,1
+intellij-sdk-docs,org.intellij.sdk.settings,AppSettingsComponent,3,0,7,7,29,7,0,0,0.0,1,0
+intellij-sdk-docs,org.intellij.sdk.settings,AppSettingsConfigurable,1,0,7,7,35,7,0,0,0.2857142857142857,0,2
+intellij-sdk-docs,org.intellij.sdk.settings,AppSettingsState,2,2,3,2,16,3,0,0,1.0,2,1
+intellij-sdk-docs,org.intellij.sdk.language.parser,SimpleParser,0,0,12,3,83,28,0,0,-1.0,1,1
+intellij-sdk-docs,org.intellij.sdk.language.psi.impl,SimplePropertyImpl,0,0,9,9,30,10,0,1,-1.0,0,2
+intellij-sdk-docs,org.intellij.sdk.language.psi.impl,SimpleNamedElementImpl,0,0,1,1,5,1,1,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.language.psi.impl,SimplePsiImplUtil,0,0,9,9,56,13,0,0,-1.0,2,4
+intellij-sdk-docs,org.intellij.sdk.language.psi,SimpleProperty,0,0,6,0,8,6,0,1,-1.0,8,0
+intellij-sdk-docs,org.intellij.sdk.language.psi,SimpleTypes,6,0,1,1,17,2,0,0,-1.0,9,0
+intellij-sdk-docs,org.intellij.sdk.language.psi,Factory,0,0,1,1,9,2,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.language.psi,SimpleVisitor,0,0,3,3,11,3,0,0,-1.0,1,2
+intellij-sdk-docs,org.intellij.sdk.language.psi,SimpleElementFactory,0,0,4,4,18,4,0,0,-1.0,3,3
+intellij-sdk-docs,org.intellij.sdk.language.psi,SimpleElementType,0,0,1,1,5,1,0,0,-1.0,0,1
+intellij-sdk-docs,org.intellij.sdk.language.psi,SimpleFile,0,0,3,3,11,3,0,0,-1.0,2,2
+intellij-sdk-docs,org.intellij.sdk.language.psi,SimpleNamedElement,0,0,0,0,2,0,1,0,-1.0,1,0
+intellij-sdk-docs,org.intellij.sdk.language.psi,SimpleTokenSets,2,0,0,0,4,0,0,0,-1.0,2,1
+intellij-sdk-docs,org.intellij.sdk.language.psi,SimpleTokenType,0,0,2,2,8,2,0,0,-1.0,0,1
+intellij-sdk-docs,org.intellij.sdk.language,SimpleLexer,31,3,24,11,407,60,0,0,0.2916666666666667,1,2
+intellij-sdk-docs,org.intellij.sdk.language,SimpleAnnotator,2,2,1,1,26,4,0,0,0.0,3,2
+intellij-sdk-docs,org.intellij.sdk.language,SimpleBlock,1,0,5,3,28,7,0,0,0.6,0,0
+intellij-sdk-docs,org.intellij.sdk.language,SimpleChooseByNameContributor,0,0,2,2,11,2,0,0,-1.0,0,1
+intellij-sdk-docs,org.intellij.sdk.language,SimpleCodeStyleSettings,0,0,1,1,5,1,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.language,SimpleCodeStyleSettingsProvider,0,0,5,4,21,5,0,0,-1.0,0,1
+intellij-sdk-docs,org.intellij.sdk.language,SimpleCodeStyleMainPanel,0,0,1,1,5,1,0,0,-1.0,0,1
+intellij-sdk-docs,org.intellij.sdk.language,SimpleColorSettingsPage,1,0,7,7,24,7,0,0,1.0,0,2
+intellij-sdk-docs,org.intellij.sdk.language,SimpleCommenter,0,0,5,5,17,5,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.language,SimpleCompletionContributor,0,0,2,1,10,2,0,0,-1.0,0,1
+intellij-sdk-docs,org.intellij.sdk.language,SimpleCreatePropertyQuickFix,1,0,6,4,49,9,0,0,0.6666666666666666,0,2
+intellij-sdk-docs,org.intellij.sdk.language,SimpleDocumentationProvider,0,0,6,4,72,8,0,0,-1.0,0,1
+intellij-sdk-docs,org.intellij.sdk.language,SimpleFileType,1,1,5,4,18,5,0,0,1.0,6,3
+intellij-sdk-docs,org.intellij.sdk.language,SimpleFindUsagesProvider,0,0,6,6,29,9,0,0,-1.0,0,2
+intellij-sdk-docs,org.intellij.sdk.language,SimpleFoldingBuilder,0,0,4,4,48,12,0,0,-1.0,0,3
+intellij-sdk-docs,org.intellij.sdk.language,SimpleFormattingModelBuilder,0,0,2,1,9,2,0,0,-1.0,1,3
+intellij-sdk-docs,org.intellij.sdk.language,SimpleIcons,1,1,0,0,3,0,0,0,-1.0,5,0
+intellij-sdk-docs,org.intellij.sdk.language,SimpleLanguage,1,1,1,0,6,1,0,0,0.0,11,1
+intellij-sdk-docs,org.intellij.sdk.language,SimpleLanguageCodeStyleSettingsProvider,0,0,3,3,17,5,0,0,-1.0,0,1
+intellij-sdk-docs,org.intellij.sdk.language,SimpleLexerAdapter,0,0,1,1,5,1,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.language,SimpleLineMarkerProvider,0,0,1,0,19,4,0,0,-1.0,0,3
+intellij-sdk-docs,org.intellij.sdk.language,SimpleParserDefinition,1,1,7,7,24,7,0,0,1.0,0,3
+intellij-sdk-docs,org.intellij.sdk.language,SimplePropertyIconProvider,0,0,1,1,5,1,0,0,-1.0,0,1
+intellij-sdk-docs,org.intellij.sdk.language,SimpleRefactoringSupportProvider,0,0,1,1,5,1,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.language,SimpleReference,1,0,4,3,31,7,0,0,0.5,0,2
+intellij-sdk-docs,org.intellij.sdk.language,SimpleReferenceContributor,0,0,2,2,16,4,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.language,SimpleSpellcheckingStrategy,0,0,3,3,41,9,0,0,-1.0,0,2
+intellij-sdk-docs,org.intellij.sdk.language,SimpleCommentTokenizer,0,0,1,1,14,3,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.language,SimplePropertyTokenizer,0,0,1,1,16,3,0,0,-1.0,0,2
+intellij-sdk-docs,org.intellij.sdk.language,SimpleStructureAwareNavbar,0,0,3,2,20,6,0,0,-1.0,0,1
+intellij-sdk-docs,org.intellij.sdk.language,SimpleStructureViewElement,1,0,8,8,37,10,0,0,0.0,0,1
+intellij-sdk-docs,org.intellij.sdk.language,SimpleStructureViewFactory,0,0,2,2,10,2,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.language,SimpleStructureViewModel,0,0,5,4,17,5,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.language,SimpleSyntaxHighlighter,11,5,2,2,34,7,0,0,1.0,2,1
+intellij-sdk-docs,org.intellij.sdk.language,SimpleSyntaxHighlighterFactory,0,0,1,1,5,1,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.language,SimpleUtil,0,0,3,3,55,13,0,0,-1.0,6,3
+intellij-sdk-docs,org.intellij.sdk.language,SimpleCodeInsightTest,0,0,10,9,64,11,0,0,-1.0,0,2
+intellij-sdk-docs,org.intellij.sdk.language,SimpleParsingTest,0,0,5,2,20,5,0,0,-1.0,0,0
+intellij-sdk-docs,org.intellij.sdk.toolWindow,CalendarToolWindowFactory,7,0,11,3,70,11,0,0,0.8181818181818182,0,1
+intellij-sdk-docs,org.intellij.sdk.toolWindow,CalendarToolWindowContent,7,0,10,2,63,10,0,0,0.0,1,0
+intellij-sdk-docs,org.intellij.sdk.treeStructureProvider,TextOnlyTreeStructureProvider,0,0,1,1,15,4,0,0,-1.0,0,0

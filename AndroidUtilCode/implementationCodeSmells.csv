@@ -1,0 +1,1915 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+AndroidUtilCode,com.blankj.utilcode.pkg.feature.mvp,MvpModel,requestUpdateMsg,Magic Number
+AndroidUtilCode,com.blankj.utilcode.pkg.feature.mvp,MvpModel,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.pkg.feature.mvp,MvpView,measure,Magic Number
+AndroidUtilCode,com.blankj.utilcode.pkg.feature.mvp,MvpView,measure,Magic Number
+AndroidUtilCode,com.blankj.utilcode.pkg.feature.mvp,MvpView,measure,Magic Number
+AndroidUtilCode,com.blankj.utilcode.pkg.feature.mvp,MvpView,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.pkg.feature.mvp,MvpView,run,Magic Number
+AndroidUtilCode,com.blankj.base,BaseApplication,initLog,Long Statement
+AndroidUtilCode,com.blankj.base,BaseApplication,initLog,Magic Number
+AndroidUtilCode,com.blankj.base,BaseFragment,setUserVisibleHint,Complex Conditional
+AndroidUtilCode,com.blankj.base,BaseFragment,onActivityCreated,Complex Conditional
+AndroidUtilCode,com.blankj.common.activity,CommonActivity,initData,Complex Method
+AndroidUtilCode,com.blankj.common.activity,CommonActivity,initSwipeBack,Magic Number
+AndroidUtilCode,com.blankj.common.activity,CommonActivityItemsView,initView,Long Statement
+AndroidUtilCode,com.blankj.common.dialog,CommonDialogContent,init,Long Parameter List
+AndroidUtilCode,com.blankj.common.item,CommonItemSeekBar,CommonItemSeekBar,Abstract Function Call From Constructor
+AndroidUtilCode,com.blankj.common.view,RotateView,initAnimator,Magic Number
+AndroidUtilCode,com.blankj.common.view,RotateView,initAnimator,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,AppStoreUtils,getAppStoreIntent,Complex Method
+AndroidUtilCode,com.blankj.subutil.util,AppStoreUtils,getAppStoreIntent,Long Identifier
+AndroidUtilCode,com.blankj.subutil.util,AppStoreUtils,getAppStoreIntent,Long Statement
+AndroidUtilCode,com.blankj.subutil.util,BitUtils,main,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,BitUtils,main,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,BitUtils,main,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,BitUtils,main,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,BitUtils,main,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,BitUtils,main,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,bd09ToGcj02,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,bd09ToGcj02,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,bd09ToGcj02,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,bd09ToGcj02,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,gcj02ToBd09,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,gcj02ToBd09,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,gcj02ToBd09,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,gcj02ToBd09,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,gcj02ToWGS84,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,gcj02ToWGS84,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,gcj02ToWGS84,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,gcj02ToWGS84,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,gcj02ToWGS84,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,gcj02ToWGS84,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,gcj02ToWGS84,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,gcj02ToWGS84,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,gcj02ToWGS84,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,wgs84ToGcj02,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,wgs84ToGcj02,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,wgs84ToGcj02,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,wgs84ToGcj02,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,wgs84ToGcj02,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,wgs84ToGcj02,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,wgs84ToGcj02,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,mercatorToWGS84,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,mercatorToWGS84,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,mercatorToWGS84,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,mercatorToWGS84,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,mercatorToWGS84,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,mercatorToWGS84,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,mercatorToWGS84,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,mercatorToWGS84,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,wgs84ToMercator,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,wgs84ToMercator,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,wgs84ToMercator,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,wgs84ToMercator,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,wgs84ToMercator,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,wgs84ToMercator,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,wgs84ToMercator,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLat,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,transformLng,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,outOfChina,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,outOfChina,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,outOfChina,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtils,outOfChina,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CountryUtils,getCountryCodeFromMap,Long Method
+AndroidUtilCode,com.blankj.subutil.util,CountryUtils,getCountryCodeFromMap,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,DangerousUtils,installAppSilent,Long Statement
+AndroidUtilCode,com.blankj.subutil.util,DangerousUtils,isDeviceRooted,Long Statement
+AndroidUtilCode,com.blankj.subutil.util,DangerousUtils,sendSmsSilent,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LocationUtils,register,Long Statement
+AndroidUtilCode,com.blankj.subutil.util,LocationUtils,isBetterLocation,Complex Conditional
+AndroidUtilCode,com.blankj.subutil.util,LocationUtils,isBetterLocation,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,lunarYear2GanZhi,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,lunarYear2GanZhi,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,lunarYear2GanZhi,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,lunarYear2GanZhi,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,lunar2Solar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,lunar2Solar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,lunar2Solar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,lunar2Solar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,lunar2Solar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,lunar2Solar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,lunar2Solar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,lunar2Solar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,lunar2Solar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,lunar2Solar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solar2Lunar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solar2Lunar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solar2Lunar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solar2Lunar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solar2Lunar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solar2Lunar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solar2Lunar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solar2Lunar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solar2Lunar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solar2Lunar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solar2Lunar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solar2Lunar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solar2Lunar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarFromInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarToInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarToInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarToInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarToInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarToInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarToInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarToInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarToInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarToInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtils,solarToInt,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,PinyinUtils,ccs2Pinyin,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,PinyinUtils,ccs2Pinyin,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,PinyinUtils,ccs2Pinyin,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,PinyinUtils,ccs2Pinyin,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,PinyinUtils,ccs2Pinyin,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,PinyinUtils,getSurnamePinyin,Complex Method
+AndroidUtilCode,com.blankj.subutil.util,PinyinUtils,getSurnamePinyin,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,PinyinUtils,getSurnamePinyin,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,PinyinUtils,getSurnamePinyin,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,PinyinUtils,getSurnamePinyin,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,PinyinUtils,getSurnamePinyin,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,PinyinUtils,getSurnamePinyin,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,PinyinUtils,getSurnamePinyin,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,TemperatureUtils,cToF,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,TemperatureUtils,cToF,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,TemperatureUtils,cToF,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,TemperatureUtils,cToK,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,TemperatureUtils,fToC,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,TemperatureUtils,fToC,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,TemperatureUtils,fToC,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,TemperatureUtils,fToK,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,TemperatureUtils,kToC,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,TemperatureUtils,kToF,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,Utils,query,Long Parameter List
+AndroidUtilCode,com.blankj.subutil.util,ContentProvider4SubUtil,query,Long Parameter List
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtilsTest,gcj2BD09,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtilsTest,bd092GCJ,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtilsTest,bd092WGS,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtilsTest,wgs2BD09,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtilsTest,wgs2GCJ,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtilsTest,gcj2WGS,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtilsTest,gcj2WGSExactly,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtilsTest,distance,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtilsTest,distance,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtilsTest,distance,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtilsTest,distance,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtilsTest,distance,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,CoordinateUtilsTest,distance,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtilsTest,lunarYear2GanZhi,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtilsTest,lunar2Solar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtilsTest,lunar2Solar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtilsTest,lunar2Solar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtilsTest,solar2Lunar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtilsTest,solar2Lunar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,LunarUtilsTest,solar2Lunar,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,TemperatureUtilsTest,cToF,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,TemperatureUtilsTest,cToK,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,TemperatureUtilsTest,fToC,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,TemperatureUtilsTest,fToK,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,TemperatureUtilsTest,kToC,Magic Number
+AndroidUtilCode,com.blankj.subutil.util,TemperatureUtilsTest,kToF,Magic Number
+AndroidUtilCode,com.blankj.subutil.util.http,HttpUtils,addBody,Magic Number
+AndroidUtilCode,com.blankj.subutil.util.http,HttpUtils,addBody,Magic Number
+AndroidUtilCode,com.blankj.subutil.util.http,HttpUtils,is2String,Magic Number
+AndroidUtilCode,com.blankj.subutil.util.http,HttpUtils,writeFileFromIS,Magic Number
+AndroidUtilCode,com.blankj.subutil.util.http,HttpUtils,run,Long Statement
+AndroidUtilCode,com.blankj.subutil.util.http,HttpUtils,run,Magic Number
+AndroidUtilCode,com.blankj.subutil.util.http,HttpUtils,run,Magic Number
+AndroidUtilCode,com.blankj.subutil.util.http,HttpUtils,run,Magic Number
+AndroidUtilCode,com.blankj.subutil.util.http,Call,run,Long Statement
+AndroidUtilCode,com.blankj.subutil.util.http,Call,run,Magic Number
+AndroidUtilCode,com.blankj.subutil.util.http,Call,run,Magic Number
+AndroidUtilCode,com.blankj.subutil.util.http,Call,run,Magic Number
+AndroidUtilCode,com.blankj.subutil.util.http,Request,getCharsetFromMediaType,Complex Method
+AndroidUtilCode,com.blankj.subutil.util.http,Request,getCharsetFromMediaType,Magic Number
+AndroidUtilCode,com.blankj.subutil.util.http,Body,getCharsetFromMediaType,Complex Method
+AndroidUtilCode,com.blankj.subutil.util.http,Body,getCharsetFromMediaType,Magic Number
+AndroidUtilCode,com.blankj.utilcode.constant,PermissionConstants,getPermissions,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,getActivityFromDecorContext,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,isActivityExists,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivity,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivity,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivity,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivity,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivity,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivity,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,isActivityAlive,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivity,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ActivityUtils,startActivityForResult,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,AdaptScreenUtils,adaptWidth,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,AdaptScreenUtils,adaptHeight,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,AdaptScreenUtils,adaptHeight,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,AdaptScreenUtils,closeAdapt,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,AdaptScreenUtils,pt2Px,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,AdaptScreenUtils,pt2Px,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,AdaptScreenUtils,px2Pt,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,AdaptScreenUtils,px2Pt,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,AppUtils,isAppRunning,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,AppUtils,getAppSignaturesHash,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,AppUtils,getApkInfo,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,AppUtils,AppInfo,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,AppUtils,toString,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,AppInfo,AppInfo,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,AppInfo,toString,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtils,realAddArr,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtils,indexOf,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtils,lastIndexOf,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtils,sort,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtils,sort,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtils,sort,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtils,sort,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtils,sort,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtils,sort,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtils,sort,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtils,sort,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtils,forAllDo,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtils,toString,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,BarUtils,addMarginTopEqualStatusBarHeight,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,BarUtils,subtractMarginTopEqualStatusBarHeight,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,BarUtils,setNotificationBarVisibility,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,BarUtils,setNotificationBarVisibility,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,BarUtils,setNavBarVisibility,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,BarUtils,isNavBarVisible,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,BarUtils,isNavBarVisible,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,BarUtils,isNavBarVisible,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,BarUtils,transparentNavBar,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,BrightnessUtils,setAutoBrightnessEnabled,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,BrightnessUtils,setBrightness,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,BrightnessUtils,setWindowBrightness,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,BrightnessUtils,setWindowBrightness,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,BrightnessUtils,getWindowBrightness,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,BusUtils,registerBus,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,BusUtils,registerBus,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,BusUtils,getClassName,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,BusUtils,getClassName,Missing default
+AndroidUtilCode,com.blankj.utilcode.util,BusUtils,invokeMethod,Missing default
+AndroidUtilCode,com.blankj.utilcode.util,BusUtils,registerBus4Test,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,BusUtils,BusInfo,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,BusUtils,toString,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,BusInfo,BusInfo,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,BusInfo,toString,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtils,remove,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtils,getCacheNameByKey,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtils,getCacheNameByKey,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtils,createDueTime,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtils,getDueTime,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtils,getDueTime,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtils,getDueTime,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtils,hasTimeInfo,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtils,hasTimeInfo,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtils,hasTimeInfo,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,DiskCacheManager,getCacheNameByKey,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,DiskCacheManager,getCacheNameByKey,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,DiskCacheHelper,createDueTime,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,DiskCacheHelper,getDueTime,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,DiskCacheHelper,getDueTime,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,DiskCacheHelper,getDueTime,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,DiskCacheHelper,hasTimeInfo,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,DiskCacheHelper,hasTimeInfo,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,DiskCacheHelper,hasTimeInfo,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryUtils,put,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CleanUtils,cleanExternalCache,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ClickUtils,applyPressedViewScale,Long Identifier
+AndroidUtilCode,com.blankj.utilcode.util,ClickUtils,applyPressedViewAlpha,Long Identifier
+AndroidUtilCode,com.blankj.utilcode.util,ClickUtils,applyPressedBgAlpha,Long Identifier
+AndroidUtilCode,com.blankj.utilcode.util,ClickUtils,createStyleDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ClickUtils,createAlphaDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ClickUtils,getDarkColorFilter,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ClickUtils,applyDebouncing,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,ClickUtils,expandClickArea,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ClickUtils,back2HomeFriendly,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ClickUtils,processScale,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,OnUtilsTouchListener,processScale,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CloseUtils,closeIOQuietly,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtils,disjunction,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtils,cardinality,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtils,addAll,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtils,get,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtils,size,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setAlphaComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setAlphaComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setAlphaComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setAlphaComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setAlphaComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setAlphaComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setAlphaComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setRedComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setRedComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setRedComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setRedComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setRedComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setRedComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setRedComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setGreenComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setGreenComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setGreenComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setGreenComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setGreenComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setGreenComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setGreenComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setBlueComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setBlueComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setBlueComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setBlueComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,setBlueComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,int2RgbString,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,int2RgbString,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,int2ArgbString,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,int2ArgbString,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,getRandomColor,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,getRandomColor,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,getRandomColor,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,getRandomColor,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,isLightColor,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,isLightColor,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,isLightColor,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtils,isLightColor,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtils,hexString2Int,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtils,bytes2Bits,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtils,bits2Bytes,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtils,bits2Bytes,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtils,bits2Bytes,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtils,bits2Bytes,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtils,bits2Bytes,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtils,bytes2Chars,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtils,bytes2HexString,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtils,bytes2HexString,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtils,bytes2HexString,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtils,hexString2Bytes,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtils,hexString2Bytes,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtils,hexString2Bytes,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtils,hex2Dec,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtils,byte2FitMemorySize,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CrashUtils,getUncaughtExceptionHandler,Long Identifier
+AndroidUtilCode,com.blankj.utilcode.util,CrashUtils,uncaughtException,Long Identifier
+AndroidUtilCode,com.blankj.utilcode.util,DeviceUtils,isDeviceRooted,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,DeviceUtils,isTablet,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,DeviceUtils,isEmulator,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,DeviceUtils,readCpuInfo,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,DeviceUtils,getUniqueDeviceIdReal,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,DeviceUtils,getUniqueDeviceIdReal,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,DeviceUtils,getUniqueDeviceIdReal,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,DeviceUtils,isSameDevice,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,DeviceUtils,isSameDevice,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,DeviceUtils,isSameDevice,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,EncodeUtils,htmlEncode,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,EncodeUtils,htmlEncode,Missing default
+AndroidUtilCode,com.blankj.utilcode.util,EncodeUtils,binaryDecode,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,encryptMD5File,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,encryptMD5File,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,encryptHmacMD5ToString,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,encryptHmacSHA1ToString,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,encryptHmacSHA224ToString,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,encryptHmacSHA256ToString,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,encryptHmacSHA384ToString,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,encryptHmacSHA512ToString,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,hmacTemplate,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,symmetricTemplate,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,symmetricTemplate,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,rsaTemplate,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,rsaTemplate,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,rsaTemplate,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,rsaTemplate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,rsaTemplate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,rsaTemplate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,rc4,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,rc4,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,rc4,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,rc4,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,rc4,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,rc4,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,rc4,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,rc4,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,rc4,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtils,rc4,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileIOUtils,readFile2List,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileIOUtils,readFile2List,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileIOUtils,readFile2List,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isFileExistsApi29,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isFileExistsApi29,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,copyOrMoveDir,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,copyOrMoveFile,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,copyOrMoveFile,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,deleteDir,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,deleteFilesInDirWithFilter,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,getFileCharsetSimple,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,getFileCharsetSimple,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,getFileCharsetSimple,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,getFileCharsetSimple,Missing default
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,isUtf8,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,getFileLines,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,getFileLines,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,getFileLines,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,getFileLines,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,getFileLength,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,getFileMD5,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtils,getFileMD5,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,add,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,add,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,add,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,add,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,add,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,add,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,add,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,add,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,add,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,add,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,add,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,add,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,add,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,add,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,add,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,add,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,showHide,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,showHide,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,showHide,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,replace,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,replace,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,replace,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,replace,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,replace,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,replace,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,replace,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,replace,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,replace,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,replace,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,replace,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,replace,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,replace,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,replace,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,replace,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,replace,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,replace,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,replace,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,replace,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,replace,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,getArgs,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,operate,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,operate,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,addAnim,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,getTopShowIsInStack,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,getAllFragments,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,getAllFragmentsInStack,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,dispatchBackPress,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,dispatchBackPress,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,FragmentUtils,dispatchBackPress,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,bitmap2Bytes,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,drawable2Bitmap,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,drawable2Bitmap,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,view2Bitmap,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,scale,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,scale,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,clip,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,clip,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,clip,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,skew,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,skew,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,skew,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,rotate,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,rotate,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,getRotateDegree,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,getRotateDegree,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,getRotateDegree,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,getRotateDegree,Missing default
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,toRound,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,toRound,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,toRound,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,toRound,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,toRound,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,toRound,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,toRound,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,toRoundCorner,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,toRoundCorner,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,toRoundCorner,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,toRoundCorner,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,addCornerBorder,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,addCornerBorder,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,addBorder,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,addBorder,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,addBorder,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,addBorder,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,addBorder,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,addBorder,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,addBorder,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,addReflection,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,addReflection,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,addReflection,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,addReflection,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,addTextWatermark,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,addTextWatermark,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,addTextWatermark,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,addImageWatermark,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,addImageWatermark,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,addImageWatermark,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,toAlpha,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,toGray,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,fastBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,fastBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,fastBlur,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,fastBlur,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,fastBlur,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,fastBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,renderScriptBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,renderScriptBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Long Method
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,stackBlur,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,save,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,save,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,save,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,save,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,save,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,save,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,save2Album,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,save2Album,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,save2Album,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,save2Album,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,save2Album,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,getImageType,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,getImageType,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isJPEG,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isJPEG,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isJPEG,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isGIF,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isGIF,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isGIF,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isGIF,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isGIF,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isGIF,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isGIF,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isPNG,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isPNG,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isPNG,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isPNG,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isPNG,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isPNG,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isPNG,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isPNG,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isPNG,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isPNG,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isPNG,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isPNG,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isPNG,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isPNG,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isPNG,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isPNG,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isBMP,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isBMP,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,isBMP,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,compressByQuality,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,compressByQuality,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,compressByQuality,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,compressByQuality,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,compressByQuality,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,compressByQuality,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,compressBySampleSize,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ImageUtils,compressBySampleSize,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,JsonUtils,getValueByType,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,JsonUtils,getValueByType,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,JsonUtils,getValueByType,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,JsonUtils,formatJson,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,KeyboardUtils,hideSoftInputByToggle,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,KeyboardUtils,fixAndroidBug5497,Long Identifier
+AndroidUtilCode,com.blankj.utilcode.util,KeyboardUtils,fixAndroidBug5497,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,KeyboardUtils,onGlobalLayout,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,KeyboardUtils,fixSoftInputLeaks,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,LanguageUtils,pollCheckAppContextLocal,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LanguageUtils,pollCheckAppContextLocal,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,log,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,log,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,log,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,log,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,log,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,processTagAndHead,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,processTagAndHead,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,processTagAndHead,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,processTagAndHead,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,processTagAndHead,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,processTagAndHead,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,printSingleTagMsg,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,print2File,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,print2File,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,getCurrentLogFilePath,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,deleteDueLogs,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,Config,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,toString,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,bundle2String,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,intent2String,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,intent2String,Long Method
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,intent2String,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,formatJson,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,formatJson,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,array2String,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,getTypeClassFromParadigm,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,getTypeClassFromParadigm,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,getClassFromObject,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogUtils,getClassFromObject,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,Config,Config,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,Config,toString,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,LogFormatter,bundle2String,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogFormatter,intent2String,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,LogFormatter,intent2String,Long Method
+AndroidUtilCode,com.blankj.utilcode.util,LogFormatter,intent2String,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogFormatter,formatJson,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogFormatter,formatJson,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogFormatter,array2String,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,MessengerUtils,unbind,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,MessengerUtils,handleMessage,Missing default
+AndroidUtilCode,com.blankj.utilcode.util,Client,unbind,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,ServerService,handleMessage,Missing default
+AndroidUtilCode,com.blankj.utilcode.util,NetworkUtils,openWirelessSettings,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,NetworkUtils,isUsingVPN,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,NetworkUtils,getNetworkType,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,NetworkUtils,getNetworkType,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,NetworkUtils,getNetworkType,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,NetworkUtils,getNetworkType,Missing default
+AndroidUtilCode,com.blankj.utilcode.util,NetworkUtils,getIPAddress,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,NetworkUtils,getSSID,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,NetworkUtils,getSSID,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NetworkUtils,isSameScanResultContent,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,NetworkUtils,onReceive,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NetworkChangedReceiver,onReceive,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NotificationUtils,setNotificationBarVisibility,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NotificationUtils,setNotificationBarVisibility,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NumberUtils,format,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,NumberUtils,format,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ObjectUtils,isEmpty,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,PermissionUtils,isGranted,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,PermissionUtils,onCreated,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,PermissionUtils,onCreated,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,PermissionActivityImpl,onCreated,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,PermissionActivityImpl,onCreated,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,PhoneUtils,getImeiOrMeid,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,PhoneUtils,getImeiOrMeid,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,PhoneUtils,getImeiOrMeid,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,PhoneUtils,getImeiOrMeid,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,PhoneUtils,getImeiOrMeid,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,PhoneUtils,getImeiOrMeid,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,PhoneUtils,getImeiOrMeid,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,PhoneUtils,getImeiOrMeid,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,PhoneUtils,getSystemPropertyByReflect,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,PhoneUtils,getSimOperatorByMnc,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,PhoneUtils,getSimOperatorByMnc,Missing default
+AndroidUtilCode,com.blankj.utilcode.util,ProcessUtils,getForegroundProcessName,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,ProcessUtils,getForegroundProcessName,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ProcessUtils,getForegroundProcessName,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ReflectUtils,getAccessibleField,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,ReflectUtils,exactMethod,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,ReflectUtils,similarMethod,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,ReflectUtils,similarMethod,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ReflectUtils,isSimilarSignature,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ReflectUtils,proxy,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ReflectUtils,proxy,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ReflectUtils,proxy,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ReflectUtils,invoke,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ReflectUtils,invoke,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ReflectUtils,invoke,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ReflectUtils,wrapper,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,RegexUtils,isMobileExact,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,RegexUtils,isMobileExact,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,RegexUtils,isIDCard18Exact,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,RegexUtils,isIDCard18Exact,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,RegexUtils,isIDCard18Exact,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,RegexUtils,isIDCard18Exact,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,RomUtils,getRomInfo,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,RomUtils,getManufacturer,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,RomUtils,getBrand,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,RomUtils,getRomVersion,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,RomUtils,getSystemProperty,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,RomUtils,getSystemPropertyByShell,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,RomUtils,getSystemPropertyByShell,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,RomUtils,getSystemPropertyByShell,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,RomUtils,getSystemPropertyByStream,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,RomUtils,getSystemPropertyByReflect,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,ScreenUtils,calculateDistanceByX,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ScreenUtils,calculateDistanceByY,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ScreenUtils,getViewX,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ScreenUtils,getViewY,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ScreenUtils,getScreenRotation,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ScreenUtils,getScreenRotation,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ScreenUtils,getScreenRotation,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ScreenUtils,getScreenRotation,Missing default
+AndroidUtilCode,com.blankj.utilcode.util,ScreenUtils,getSleepDuration,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SDCardUtils,toString,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,SDCardInfo,toString,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ServiceUtils,getAllRunningServices,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ServiceUtils,isServiceRunning,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,apply,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,apply,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,ShadowDrawable,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,ShadowDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,toEven,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,drawShadow,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,drawShadow,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,drawShadow,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,drawShadow,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,drawShadow,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,drawShadow,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,drawShadow,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,drawShadow,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,drawShadow,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,buildShadowCorners,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,buildShadowCorners,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,buildShadowCorners,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,buildComponents,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,buildComponents,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,buildComponents,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,getMinWidth,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,getMinWidth,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,getMinWidth,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,getMinHeight,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,getMinHeight,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowUtils,getMinHeight,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,Config,apply,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,Config,apply,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,ShadowDrawable,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,ShadowDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,toEven,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,drawShadow,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,drawShadow,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,drawShadow,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,drawShadow,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,drawShadow,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,drawShadow,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,drawShadow,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,drawShadow,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,drawShadow,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,buildShadowCorners,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,buildShadowCorners,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,buildShadowCorners,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,buildShadowCorners,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,buildComponents,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,buildComponents,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,buildComponents,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,getMinWidth,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,getMinWidth,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,getMinWidth,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,getMinHeight,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,getMinHeight,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShadowDrawable,getMinHeight,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ShellUtils,execCmd,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ShellUtils,execCmd,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,ShellUtils,execCmd,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,SizeUtils,dp2px,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SizeUtils,px2dp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SizeUtils,sp2px,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SizeUtils,px2sp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SizeUtils,applyDimension,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SizeUtils,applyDimension,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SnackbarUtils,show,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,SnackbarUtils,show,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,SnackbarUtils,show,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SnackbarUtils,show,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SnackbarUtils,show,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,setQuoteColor,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,setQuoteColor,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,setBullet,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,setFontSize,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,updateCharCharSequence,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,updateCharCharSequence,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,updateCharCharSequence,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,updateCharCharSequence,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,updateCharCharSequence,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,getSize,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,draw,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,draw,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,draw,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,chooseHeight,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,chooseHeight,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,chooseHeight,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,chooseHeight,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,chooseHeight,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,chooseHeight,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,getSize,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,draw,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,drawLeadingMargin,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,getLeadingMargin,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,drawLeadingMargin,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,drawLeadingMargin,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,drawLeadingMargin,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,apply,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,getSize,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,getSize,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,getSize,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,getSize,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,getSize,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,draw,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,SpanUtils,draw,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,VerticalAlignSpan,getSize,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,VerticalAlignSpan,draw,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,VerticalAlignSpan,draw,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,VerticalAlignSpan,draw,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CustomLineHeightSpan,chooseHeight,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,CustomLineHeightSpan,chooseHeight,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,CustomLineHeightSpan,chooseHeight,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CustomLineHeightSpan,chooseHeight,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CustomLineHeightSpan,chooseHeight,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CustomLineHeightSpan,chooseHeight,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,SpaceSpan,getSize,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,SpaceSpan,draw,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,CustomQuoteSpan,drawLeadingMargin,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,CustomBulletSpan,getLeadingMargin,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CustomBulletSpan,drawLeadingMargin,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,CustomBulletSpan,drawLeadingMargin,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CustomBulletSpan,drawLeadingMargin,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CustomTypefaceSpan,apply,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CustomDynamicDrawableSpan,getSize,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,CustomDynamicDrawableSpan,getSize,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CustomDynamicDrawableSpan,getSize,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CustomDynamicDrawableSpan,getSize,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CustomDynamicDrawableSpan,getSize,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CustomDynamicDrawableSpan,draw,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,CustomDynamicDrawableSpan,draw,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,StringUtils,equals,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,StringUtils,upperFirstLetter,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,StringUtils,lowerFirstLetter,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,StringUtils,toDBC,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,StringUtils,toDBC,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,StringUtils,toDBC,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,StringUtils,toDBC,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,StringUtils,toSBC,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,StringUtils,toSBC,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,StringUtils,toSBC,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,StringUtils,toSBC,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,getFixedPool,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,getSinglePool,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,getCachedPool,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,getIoPool,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,getCpuPool,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByFixed,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByFixedWithDelay,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByFixedWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByFixedAtFixRate,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByFixedAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByFixedAtFixRate,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByFixedAtFixRate,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByFixedAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeBySingle,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeBySingleWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeBySingleAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeBySingleAtFixRate,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeBySingleAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByCached,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByCachedWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByCachedAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByCachedAtFixRate,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByCachedAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByIo,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByIoWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByIoAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByIoAtFixRate,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByIoAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByCpu,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByCpuWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByCpuAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByCpuAtFixRate,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByCpuAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeByCustomAtFixRate,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,executeAtFixedRate,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,execute,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,createPool,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,createPool,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,createPool,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,createPool,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,createPool,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,createPool,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,createPool,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,createPool,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,createPool,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,createPool,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,createPool,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,createPool,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,createPool,Missing default
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,ThreadPoolExecutor4Util,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,LinkedBlockingQueue4Util,Long Identifier
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,offer,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtils,run,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,ThreadPoolExecutor4Util,createPool,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ThreadPoolExecutor4Util,createPool,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ThreadPoolExecutor4Util,createPool,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ThreadPoolExecutor4Util,createPool,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ThreadPoolExecutor4Util,createPool,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ThreadPoolExecutor4Util,createPool,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadPoolExecutor4Util,createPool,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadPoolExecutor4Util,createPool,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadPoolExecutor4Util,createPool,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadPoolExecutor4Util,createPool,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadPoolExecutor4Util,createPool,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadPoolExecutor4Util,createPool,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadPoolExecutor4Util,createPool,Missing default
+AndroidUtilCode,com.blankj.utilcode.util,ThreadPoolExecutor4Util,ThreadPoolExecutor4Util,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,LinkedBlockingQueue4Util,LinkedBlockingQueue4Util,Long Identifier
+AndroidUtilCode,com.blankj.utilcode.util,LinkedBlockingQueue4Util,offer,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,Task,run,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtils,isUsingNetworkProvidedTime,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtils,getFriendlyTimeSpanByNow,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtils,isLeapYear,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtils,isLeapYear,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtils,isLeapYear,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtils,getChineseZodiac,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtils,getChineseZodiac,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtils,getZodiac,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtils,getZodiac,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtils,millis2FitTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,setRightIcon,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,setBottomIcon,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,tryApplyUtilsToastView,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,tryApplyUtilsToastView,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,tryApplyUtilsToastView,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,tryApplyUtilsToastView,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,tryApplyUtilsToastView,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,tryApplyUtilsToastView,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,tryApplyUtilsToastView,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,tryApplyUtilsToastView,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,newToast,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,SystemToast,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,show,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,show,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,show,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,show,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,cancel,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,show,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,show,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,cancel,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,showWithActivityWindow,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,showWithActivityView,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,showWithActivityView,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ToastUtils,AbsToast,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,SystemToast,SystemToast,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,WindowManagerToast,show,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,WindowManagerToast,show,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,WindowManagerToast,show,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,WindowManagerToast,show,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,WindowManagerToast,cancel,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,ActivityToast,show,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ActivityToast,show,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ActivityToast,cancel,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,ActivityToast,showWithActivityWindow,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ActivityToast,showWithActivityView,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ActivityToast,showWithActivityView,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,AbsToast,AbsToast,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,TouchUtils,onMove,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,TouchUtils,onStop,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,TouchUtils,onTouch,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,TouchUtils,onTouch,Missing default
+AndroidUtilCode,com.blankj.utilcode.util,TouchUtils,onUtilsStop,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,OnTouchUtilsListener,onMove,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,OnTouchUtilsListener,onStop,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,OnTouchUtilsListener,onTouch,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,OnTouchUtilsListener,onTouch,Missing default
+AndroidUtilCode,com.blankj.utilcode.util,OnTouchUtilsListener,onUtilsStop,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,UiMessageUtils,logMessageHandling,Complex Conditional
+AndroidUtilCode,com.blankj.utilcode.util,UiMessageUtils,logMessageHandling,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,UriUtils,uri2FileReal,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,UriUtils,uri2FileReal,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,UriUtils,uri2FileReal,Long Method
+AndroidUtilCode,com.blankj.utilcode.util,UriUtils,uri2FileReal,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,UriUtils,uri2FileReal,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,UriUtils,uri2FileReal,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,UriUtils,getFileFromUri,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,UtilsActivityLifecycleImpl,addActivityLifecycleCallbacksInner,Long Identifier
+AndroidUtilCode,com.blankj.utilcode.util,UtilsActivityLifecycleImpl,removeActivityLifecycleCallbacks,Long Identifier
+AndroidUtilCode,com.blankj.utilcode.util,UtilsActivityLifecycleImpl,run,Long Identifier
+AndroidUtilCode,com.blankj.utilcode.util,UtilsActivityLifecycleImpl,removeActivityLifecycleCallbacksInner,Long Identifier
+AndroidUtilCode,com.blankj.utilcode.util,UtilsActivityLifecycleImpl,consumeActivityLifecycleCallbacks,Long Identifier
+AndroidUtilCode,com.blankj.utilcode.util,UtilsActivityLifecycleImpl,consumeLifecycle,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,UtilsActivityLifecycleImpl,consumeLifecycle,Long Identifier
+AndroidUtilCode,com.blankj.utilcode.util,UtilsActivityLifecycleImpl,processHideSoftInputOnActivityDestroy,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,UtilsActivityLifecycleImpl,processHideSoftInputOnActivityDestroy,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,UtilsActivityLifecycleImpl,processHideSoftInputOnActivityDestroy,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,UtilsActivityLifecycleImpl,processHideSoftInputOnActivityDestroy,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,UtilsActivityLifecycleImpl,processHideSoftInputOnActivityDestroy,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,UtilsActivityLifecycleImpl,run,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,UtilsActivityLifecycleImpl,getActivitiesByReflect,Long Identifier
+AndroidUtilCode,com.blankj.utilcode.util,UtilsBridge,append2Host,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileHead,append2Host,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,VolumeUtils,setVolume,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util,ZipUtils,unzipFileByKeyword,Complex Method
+AndroidUtilCode,com.blankj.utilcode.util,ZipUtils,unzipChildFile,Long Parameter List
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,newArray,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,newArray,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,newArray,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,newArray,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,newArray,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,newArray,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,newArray,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,newArray,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,newArray,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,newArray,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,newArray,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,newArray,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,newArray,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,newArray,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,get,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,getOrDefault,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,getOrDefault,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,subArray,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,add,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,add,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,add,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,add,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,lastIndexOf,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,contains,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,asList,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,asList,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ArrayUtilsTest,asList,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,BusUtilsTest,setUp,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,BusUtilsTest,setUp,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,BusUtilsTest,setUp,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,BusUtilsTest,setUp,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,BusUtilsTest,setUp,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,BusUtilsTest,setUp,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,BusUtilsTest,testThreadMode,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,BusUtilsTest,testSameTag,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,BusUtilsVsEventBusTest,setUp,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,BusUtilsVsEventBusTest,compareRegister10000Times,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,BusUtilsVsEventBusTest,compareRegister10000Times,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,BusUtilsVsEventBusTest,comparePostTo1Subscriber1000000Times,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,BusUtilsVsEventBusTest,comparePostTo100Subscribers100000Times,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,BusUtilsVsEventBusTest,comparePostTo100Subscribers100000Times,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,BusUtilsVsEventBusTest,comparePostTemplate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,BusUtilsVsEventBusTest,compareUnregister10000Times,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,BusUtilsVsEventBusTest,compareUnregister10000Times,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,BusUtilsVsEventBusTest,compareWithEventBus,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,BusUtilsVsEventBusTest,compareWithEventBus,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,setUp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,setUp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,setUp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,setUp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,setUp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,setUp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,setUp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,setUp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getJSONObject,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getJSONObject,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getBitmap,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getBitmap,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getBitmap,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getBitmap,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getBitmap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getBitmap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getBitmap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getBitmap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getBitmap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getBitmap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getBitmap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getBitmap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getDrawable,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getDrawable,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getDrawable,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getDrawable,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getParcel,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getParcel,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getParcel,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getParcel,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getCacheCount,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,getCacheCount,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,equals,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskStaticUtilsTest,equals,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ParcelableTest,equals,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,SerializableTest,equals,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,setUp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,setUp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,setUp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,setUp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,setUp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,setUp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,setUp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,setUp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getBitmap,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getBitmap,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getBitmap,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getBitmap,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getBitmap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getBitmap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getBitmap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getBitmap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getBitmap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getBitmap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getBitmap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getBitmap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getDrawable,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getDrawable,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getDrawable,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getDrawable,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getCacheCount,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,getCacheCount,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,equals,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDiskUtilsTest,equals,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ParcelableTest,equals,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,SerializableTest,equals,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDoubleStaticUtilsTest,getBitmap,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDoubleStaticUtilsTest,getBitmap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDoubleStaticUtilsTest,getBitmap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDoubleStaticUtilsTest,getDrawable,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDoubleStaticUtilsTest,getDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDoubleStaticUtilsTest,getDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDoubleStaticUtilsTest,getCacheDiskCount,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDoubleStaticUtilsTest,getCacheMemoryCount,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDoubleStaticUtilsTest,equals,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDoubleStaticUtilsTest,equals,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ParcelableTest,equals,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,SerializableTest,equals,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDoubleUtilsTest,getBitmap,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDoubleUtilsTest,getBitmap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDoubleUtilsTest,getBitmap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDoubleUtilsTest,getDrawable,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDoubleUtilsTest,getDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDoubleUtilsTest,getDrawable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDoubleUtilsTest,getCacheDiskCount,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDoubleUtilsTest,getCacheMemoryCount,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheDoubleUtilsTest,equals,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheDoubleUtilsTest,equals,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,ParcelableTest,equals,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,SerializableTest,equals,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryStaticUtilsTest,setUp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryStaticUtilsTest,setUp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryStaticUtilsTest,get,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryStaticUtilsTest,get,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryStaticUtilsTest,get,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryStaticUtilsTest,getExpired,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryStaticUtilsTest,getExpired,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryStaticUtilsTest,getExpired,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryStaticUtilsTest,getExpired,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryStaticUtilsTest,getExpired,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryStaticUtilsTest,getExpired,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryStaticUtilsTest,getCacheCount,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryStaticUtilsTest,getCacheCount,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryStaticUtilsTest,clear,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryStaticUtilsTest,clear,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryUtilsTest,setUp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryUtilsTest,setUp,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryUtilsTest,get,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryUtilsTest,get,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryUtilsTest,get,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryUtilsTest,getExpired,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryUtilsTest,getExpired,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryUtilsTest,getExpired,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryUtilsTest,getExpired,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryUtilsTest,getExpired,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryUtilsTest,getExpired,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryUtilsTest,getCacheCount,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryUtilsTest,getCacheCount,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryUtilsTest,clear,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CacheMemoryUtilsTest,clear,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CloneUtilsTest,Result,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CloneUtilsTest,toString,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CloneUtilsTest,toString,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,Result,Result,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,Result,toString,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,Person,toString,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,cardinality,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,filter,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,filter,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,filter,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,filter,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,select,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,select,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,select,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,select,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,select,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,selectRejected,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,selectRejected,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,selectRejected,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,transform,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,transform,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,collect,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,collect,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,collect,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,countMatches,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,countMatches,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,countMatches,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,exists,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,exists,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addIgnoreNull,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addIgnoreNull,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addIgnoreNull,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addIgnoreNull,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addIgnoreNull,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addIgnoreNull,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addIgnoreNull,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addIgnoreNull,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,addAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,get,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,get,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,size,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,size,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,size,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,sizeIsEmpty,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,sizeIsEmpty,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,isEmpty,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,isEmpty,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,isNotEmpty,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,isNotEmpty,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,retainAll,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,retainAll,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,retainAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,retainAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,retainAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,retainAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,retainAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,removeAll,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,removeAll,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,removeAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,removeAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,removeAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,removeAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,removeAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,removeAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,CollectionUtilsTest,removeAll,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setAlphaComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setAlphaComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setAlphaComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setAlphaComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setAlphaComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setAlphaComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setRedComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setRedComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setRedComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setRedComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setRedComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setRedComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setGreenComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setGreenComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setGreenComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setGreenComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setGreenComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setGreenComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setBlueComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setBlueComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setBlueComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setBlueComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setBlueComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,setBlueComponent,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,string2Int,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,string2Int,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,string2Int,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,int2RgbString,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ColorUtilsTest,int2ArgbString,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtilsTest,byte2MemorySize,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtilsTest,byte2MemorySize,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtilsTest,byte2FitMemorySize,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtilsTest,byte2FitMemorySize,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtilsTest,byte2FitMemorySize,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtilsTest,byte2FitMemorySize,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtilsTest,byte2FitMemorySize,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtilsTest,millis2FitTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtilsTest,millis2FitTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtilsTest,millis2FitTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtilsTest,millis2FitTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtilsTest,millis2FitTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtilsTest,millis2FitTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtilsTest,millis2FitTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtilsTest,millis2FitTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtilsTest,millis2FitTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtilsTest,millis2FitTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtilsTest,bytes2Bits_bits2Bytes,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ConvertUtilsTest,inputStream2Bytes_bytes2InputStream,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncodeUtilsTest,htmlEncode_htmlDecode,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncodeUtilsTest,htmlEncode_htmlDecode,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,encryptSHA512,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,encryptHmacMD5,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,encryptHmacSHA1,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,encryptHmacSHA224,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,encryptHmacSHA256,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,encryptHmacSHA384,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,encryptHmacSHA384,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,encryptHmacSHA512,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,encryptDES,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,decryptDES,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,encrypt3DES,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,decrypt3DES,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,encryptAES,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,decryptAES,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,encryptDecryptRSA,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,encryptDecryptRSA,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,encryptDecryptRSA,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,encryptDecryptRSA,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,rc4,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,genKeyPair,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,genKeyPair,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,genKeyPair,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,EncryptUtilsTest,genKeyPair,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileIOUtilsTest,writeFileFromIS,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileIOUtilsTest,writeFileFromBytesByStream,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,FileIOUtilsTest,writeFileFromBytesByStream,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileIOUtilsTest,writeFileFromString,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,FileUtilsTest,getFileLines,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,GsonUtilsTest,toJson,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,GsonUtilsTest,fromJson,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,GsonUtilsTest,getType,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,GsonUtilsTest,getType,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,GsonUtilsTest,getType,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,GsonUtilsTest,Result,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,Result,Result,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,LogUtilsTest,toString,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,Person,toString,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,MapUtilsTest,newUnmodifiableMap,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,MapUtilsTest,newUnmodifiableMap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,MapUtilsTest,newUnmodifiableMap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,MapUtilsTest,newHashMap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,MapUtilsTest,newHashMap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,MapUtilsTest,newLinkedHashMap,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,MapUtilsTest,newLinkedHashMap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,MapUtilsTest,newLinkedHashMap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,MapUtilsTest,newTreeMap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,MapUtilsTest,newTreeMap,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,MapUtilsTest,newHashTable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,MapUtilsTest,newHashTable,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,MapUtilsTest,forAllDo,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,MapUtilsTest,forAllDo,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,MapUtilsTest,forAllDo,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,MapUtilsTest,transform,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util,MapUtilsTest,transform,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,MapUtilsTest,transform,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NumberUtilsTest,format,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NumberUtilsTest,format,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NumberUtilsTest,format,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NumberUtilsTest,format,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NumberUtilsTest,format,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NumberUtilsTest,format,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NumberUtilsTest,format,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NumberUtilsTest,format,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NumberUtilsTest,format,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NumberUtilsTest,format,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NumberUtilsTest,format,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NumberUtilsTest,format,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NumberUtilsTest,format,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NumberUtilsTest,format,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NumberUtilsTest,format,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,NumberUtilsTest,float2Double,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,StringUtilsTest,length,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixed,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixed,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixed,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixed,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixed,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixed,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixedWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixedWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixedWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixedWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixedWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixedWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixedWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixedAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixedAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixedAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixedAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixedAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixedAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixedAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixedAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByFixedAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeBySingle,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeBySingle,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeBySingle,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeBySingle,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeBySingleWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeBySingleWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeBySingleWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeBySingleWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeBySingleWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeBySingleWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeBySingleAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeBySingleAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeBySingleAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeBySingleAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeBySingleAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeBySingleAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeBySingleAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeBySingleAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByIo,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByIo,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByIo,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByIo,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByIo,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByIoWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByIoWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByIoWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByIoWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByIoWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByIoWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByIoAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByIoAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByIoAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByIoAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByIoAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByIoAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByIoAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByCpu,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByCpu,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByCpu,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByCpu,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByCpu,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByCpuWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByCpuWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByCpuWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByCpuWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByCpuWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByCpuWithDelay,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByCpuAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByCpuAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByCpuAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByCpuAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByCpuAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByCpuAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,executeByCpuAtFixRate,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,run,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,cancelPoolTask,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,cancelPoolTask,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,cancelPoolTask,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,onSuccess,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,testTimeout,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,testTimeout,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,testTimeout,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,ThreadUtilsTest,doInBackground,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getFitTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getFitTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getFitTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getFitTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getFitTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getFitTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getFitTimeSpan,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,isLeapYear,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,isLeapYear,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getWeekIndex,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getWeekIndex,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getWeekIndex,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getWeekIndex,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getWeekIndex,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getWeekOfYear,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getWeekOfYear,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getWeekOfYear,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getWeekOfYear,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getChineseZodiac,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getZodiac,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,TimeUtilsTest,getZodiac,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,UiMessageUtilsTest,multiMessageTest,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,UiMessageUtilsTest,multiMessageTest,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,UiMessageUtilsTest,multiMessageTest,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,UiMessageUtilsTest,multiMessageTest,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,UiMessageUtilsTest,multiMessageTest,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,UiMessageUtilsTest,multiMessageTest,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,UiMessageUtilsTest,handleMessage,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util,UiMessageUtilsTest,handleMessage,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,reflect,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,method,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,method,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,method,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,method,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,methodSuper,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,methodSuper,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,methodDeclaring,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,fieldPrivateStaticFinal,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,fieldPrivateStaticFinal,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,fieldPrivateStaticFinal,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,fieldPrivateStaticFinal,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,fieldAdvanced,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,fieldAdvanced,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,fieldAdvanced,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,fieldFinalAdvanced,Long Statement
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,fieldFinalAdvanced,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,fieldFinalAdvanced,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,fieldFinalAdvanced,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,fieldFinalAdvanced,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,testProxy,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,testProxy,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,testProxy,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,testProxy,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,testProxy,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,testProxy,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,testProxy,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,testProxy,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,testMapProxy,Empty catch clause
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,testMapProxy,Magic Number
+AndroidUtilCode,com.blankj.utilcode.util.reflect,ReflectUtilsTest,testMapProxy,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.drawable,PolygonDrawable,draw,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.drawable,PolygonDrawable,draw,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.drawable,PolygonDrawable,draw,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.drawable,PolygonDrawable,draw,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,run,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,BaseContentFloatView,Abstract Function Call From Constructor
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,closeRefresh,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,initTitleBar,Long Statement
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,initTitleBar,Long Statement
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,initTitleBar,Long Statement
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,initTitleBar,Long Statement
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,initTitleBar,Long Statement
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,initTitleBar,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,initTitleBar,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,initTitleBar,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,initTitleBar,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,initTitleBar,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,initTitleBar,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,initTitleBar,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,onTriggerClick,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,onTriggerClick,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,onMove,Long Parameter List
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,onMove,Long Statement
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,onStop,Long Parameter List
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,onDown,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,onDown,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,onMove,Long Parameter List
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,onStop,Long Parameter List
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,initSwipePanel,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,initSwipePanel,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,onProgressChanged,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,onProgressChanged,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentFloatView,wrapWindow,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseContentView,BaseContentView,Abstract Function Call From Constructor
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseFloatView,BaseFloatView,Abstract Function Call From Constructor
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseFloatView,onCreateLayoutParams,Empty catch clause
+AndroidUtilCode,com.blankj.utildebug.base.view,BaseFloatView,onCreateLayoutParams,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,FloatToast,onCreateLayoutParams,Long Statement
+AndroidUtilCode,com.blankj.utildebug.base.view,FloatToast,onCreateLayoutParams,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,FloatToast,show,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,FloatToast,showShort,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,FloatToast,showShort,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,FloatToast,showLong,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,FloatToast,showLong,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,SwipeRightMenu,initView,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,SwipeRightMenu,isTouchPointInView,Magic Number
+AndroidUtilCode,com.blankj.utildebug.base.view,SwipeRightMenu,dispatchTouchEvent,Complex Conditional
+AndroidUtilCode,com.blankj.utildebug.base.view,SwipeRightMenu,dispatchTouchEvent,Complex Method
+AndroidUtilCode,com.blankj.utildebug.base.view,SwipeRightMenu,dispatchTouchEvent,Missing default
+AndroidUtilCode,com.blankj.utildebug.config,DebugConfig,getDebugIconY,Magic Number
+AndroidUtilCode,com.blankj.utildebug.debug.tool.appInfo,AppInfoFloatView,initContentView,Long Statement
+AndroidUtilCode,com.blankj.utildebug.debug.tool.appInfo,AppInfoItem,getAppInfoItems,Long Statement
+AndroidUtilCode,com.blankj.utildebug.debug.tool.deviceInfo,DeviceInfoFloatView,initContentView,Long Statement
+AndroidUtilCode,com.blankj.utildebug.debug.tool.deviceInfo,DeviceInfoItem,getAppInfoItems,Long Statement
+AndroidUtilCode,com.blankj.utildebug.debug.tool.deviceInfo,DeviceInfoItem,getScreenInfo,Long Statement
+AndroidUtilCode,com.blankj.utildebug.debug.tool.fileExplorer,FileContentView,onAttach,Long Statement
+AndroidUtilCode,com.blankj.utildebug.debug.tool.fileExplorer,FileItem,bind,Complex Method
+AndroidUtilCode,com.blankj.utildebug.debug.tool.fileExplorer,FileItem,bind,Long Statement
+AndroidUtilCode,com.blankj.utildebug.debug.tool.fileExplorer,FileItem,bind,Long Statement
+AndroidUtilCode,com.blankj.utildebug.debug.tool.fileExplorer,FileItem,getFileItems,Complex Method
+AndroidUtilCode,com.blankj.utildebug.debug.tool.fileExplorer.sp,SpItem,bind,Long Statement
+AndroidUtilCode,com.blankj.utildebug.debug.tool.fileExplorer.sp,SpModifyContentView,onAttach,Long Statement
+AndroidUtilCode,com.blankj.utildebug.debug.tool.fileExplorer.sp,SpViewerContentView,onAttach,Long Statement
+AndroidUtilCode,com.blankj.utildebug.helper,ShadowHelper,applyDebugIcon,Magic Number
+AndroidUtilCode,com.blankj.utildebug.helper,ShadowHelper,applyDebugIcon,Magic Number
+AndroidUtilCode,com.blankj.utildebug.helper,ShadowHelper,applyFloatView,Magic Number
+AndroidUtilCode,com.blankj.utildebug.helper,ShadowHelper,applyMenu,Magic Number
+AndroidUtilCode,com.blankj.utildebug.helper,SpHelper,getSpClassName,Complex Method
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,DebugIcon,Long Statement
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,DebugIcon,Long Statement
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,DebugIcon,Long Statement
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,DebugIcon,Magic Number
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,DebugIcon,Magic Number
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,DebugIcon,Magic Number
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,DebugIcon,Magic Number
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,DebugIcon,Magic Number
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,onMove,Long Parameter List
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,onStop,Long Parameter List
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,stick2HorizontalSide,Long Statement
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,stick2HorizontalSide,Magic Number
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,stick2HorizontalSide,Magic Number
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,stick2HorizontalSide,Magic Number
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,processScale,Magic Number
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,processScale,Magic Number
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,wrapPosition,Magic Number
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,wrapPosition,Magic Number
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,wrapPosition,Magic Number
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,run,Magic Number
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,run,Magic Number
+AndroidUtilCode,com.blankj.utildebug.icon,DebugIcon,run,Magic Number
+AndroidUtilCode,com.blankj.utildebug.menu,DebugItem,bind,Magic Number
+AndroidUtilCode,com.blankj.utildebug.menu,DebugItem,getRandomColor,Magic Number
+AndroidUtilCode,com.blankj.utildebug.menu,DebugMenu,onDetachedFromWindow,Magic Number
+AndroidUtilCode,com.blankj.utildebug.menu,DebugMenuItem,bind,Magic Number
+AndroidUtilCode,com.blankj.utildebug.menu,DebugMenuItem,getCategoryString,Missing default
+AndroidUtilCode,com.blankj.api,ApiClassVisitor,visit,Long Parameter List
+AndroidUtilCode,com.blankj.api,ApiClassVisitor,visitEnd,Long Statement
+AndroidUtilCode,com.blankj.api,ApiUtilsClassVisitor,visitMethod,Long Parameter List
+AndroidUtilCode,com.blankj.bus,BusClassVisitor,visit,Long Parameter List
+AndroidUtilCode,com.blankj.bus,BusClassVisitor,visitMethod,Complex Method
+AndroidUtilCode,com.blankj.bus,BusClassVisitor,visitMethod,Long Parameter List
+AndroidUtilCode,com.blankj.bus,BusClassVisitor,visitMethod,Long Statement
+AndroidUtilCode,com.blankj.bus,BusClassVisitor,visitLocalVariable,Long Parameter List
+AndroidUtilCode,com.blankj.bus,BusInfo,toString,Long Statement
+AndroidUtilCode,com.blankj.bus,BusUtilsClassVisitor,visitMethod,Long Parameter List
+AndroidUtilCode,com.blankj.bus,BusUtilsClassVisitor,visitMethod,Long Statement
+AndroidUtilCode,com.blankj.bus,BusUtilsClassVisitor,onMethodExit,Long Statement
+AndroidUtilCode,com.blankj.bus,BusUtils,registerBus,Long Parameter List
+AndroidUtilCode,com.blankj.bus,BusUtils,registerBus,Long Parameter List
+AndroidUtilCode,com.blankj.bus,BusUtils,registerInner,Complex Method
+AndroidUtilCode,com.blankj.bus,BusUtils,getClassName,Complex Method
+AndroidUtilCode,com.blankj.bus,BusUtils,getClassName,Missing default
+AndroidUtilCode,com.blankj.bus,BusUtils,invokeMethod,Missing default
+AndroidUtilCode,com.blankj.bus,BusUtils,realInvokeMethod,Complex Method
+AndroidUtilCode,com.blankj.bus,BusUtils,BusInfo,Long Parameter List
+AndroidUtilCode,com.blankj.bus,BusUtils,toString,Long Statement
+AndroidUtilCode,com.blankj.bus,BusInfo,BusInfo,Long Parameter List
+AndroidUtilCode,com.blankj.bus,BusInfo,toString,Long Statement
+AndroidUtilCode,com.blankj.base_transform.util,ZipUtils,unzipFileByKeyword,Complex Method
+AndroidUtilCode,com.blankj.base_transform.util,ZipUtils,unzipChildFile,Long Parameter List
