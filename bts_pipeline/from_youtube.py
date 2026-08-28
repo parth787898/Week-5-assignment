@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
-"""YouTube URL -> 10x 5s 9:16 BTS clips + 1 thumbnail source frame.
+"""YouTube URL -> extract source screenshots for BTS generation.
 
-Uses only free local tools: yt-dlp, ffmpeg, Mixkit BTS camera plates.
+Pipeline (free tools only):
+  1. yt-dlp / ffmpeg grab the video
+  2. Extract 10 unique screenshots (active picture only, no letterbox)
+  3. Generate photoreal BTS stills from each screenshot (GenerateImage)
+  4. animate_bts_stills.py turns those stills into 5s 1080x1920 Shorts
 """
 from __future__ import annotations
 
