@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
-"""Build 10 moving 5s 1080x1920 BTS clips from Avengers: Doomsday Special Look.
+"""DEPRECATED Mixkit-composite builder.
 
-Scene layer = live 4K trailer (actors/VFX moving).
-Gear layer = Mixkit camera-crew plates (operators, sliders, LCDs moving).
-LCD overlay = the same live scene, so the monitor matches the take.
-Observer handheld shake on the final composite.
-Never pad; 9:16 crop only.
+Superseded by screenshot -> GenerateImage BTS still -> animate_bts_stills.py
+(the look the user asked for: full working set, not a camera overlay).
+Kept only as history of the first Doomsday attempt.
 """
 from __future__ import annotations
 
