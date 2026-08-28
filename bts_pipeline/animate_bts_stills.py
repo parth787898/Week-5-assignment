@@ -36,44 +36,44 @@ STILLS = [
     "bts_10.png",
 ]
 
-# Unique observer-camera moves. Expressions are in output pixels after
-# scaling the 1080x1920 plate larger, then cropping back.
+# Viral BTS-channel move: start tight on the movie trick, PULL BACK to
+# reveal blue/green screen, truss, and crew. Phone-handheld throughout.
 MOTIONS = [
-    # 1 Doom throne: slow push in, standing handheld
-    "scale=w='1080*(1.06+0.10*t/5)':h='1920*(1.06+0.10*t/5)':eval=frame,"
-    "crop=1080:1920:(in_w-1080)/2+10*sin(2*PI*t/1.35):(in_h-1920)/2+7*sin(2*PI*t/0.92)",
-    # 2 wounded elder: push-in + handheld breathe
-    "scale=w='1080*(1.08+0.10*t/5)':h='1920*(1.08+0.10*t/5)':eval=frame,"
-    "crop=1080:1920:(in_w-1080)/2+14*sin(2*PI*t/1.12)+7*sin(2*PI*t/0.47):"
-    "(in_h-1920)/2+11*sin(2*PI*t/0.88)+6*sin(2*PI*t/0.41)",
-    # 3 Reed profile: pan with the look (left)
-    "scale=1242:2208,"
-    "crop=1080:1920:max(0\\,in_w-1080-6-78*t/5)+7*sin(2*PI*t/1.6):"
-    "(in_h-1920)/2+8*sin(2*PI*t/1.25)",
-    # 4 Wakanda group: slow push + lateral drift
-    "scale=w='1080*(1.04+0.09*t/5)':h='1920*(1.04+0.09*t/5)':eval=frame,"
-    "crop=1080:1920:(in_w-1080)/2+18*t/5+6*sin(2*PI*t/1.7):(in_h-1920)/2+5*sin(2*PI*t/1.1)",
-    # 5 ruined city volume: crane-up feel
-    "scale=1210:2152,"
+    # 1 throne set — reveal the blue screen
+    "scale=w='1080*(1.22-0.16*t/5)':h='1920*(1.22-0.16*t/5)':eval=frame,"
+    "crop=1080:1920:(in_w-1080)/2+10*sin(2*PI*t/1.35):(in_h-1920)/2+8*sin(2*PI*t/0.92)",
+    # 2 elder set — pull back off the library wall
+    "scale=w='1080*(1.20-0.14*t/5)':h='1920*(1.20-0.14*t/5)':eval=frame,"
+    "crop=1080:1920:(in_w-1080)/2+12*sin(2*PI*t/1.12)+6*sin(2*PI*t/0.47):"
+    "(in_h-1920)/2+10*sin(2*PI*t/0.88)+5*sin(2*PI*t/0.41)",
+    # 3 profile — pull back + pan off the jib
+    "scale=w='1080*(1.21-0.15*t/5)':h='1920*(1.21-0.15*t/5)':eval=frame,"
+    "crop=1080:1920:max(0\\,(in_w-1080)/2+40-70*t/5)+8*sin(2*PI*t/1.6):"
+    "(in_h-1920)/2+7*sin(2*PI*t/1.25)",
+    # 4 group — reveal more blue screen and dolly
+    "scale=w='1080*(1.19-0.13*t/5)':h='1920*(1.19-0.13*t/5)':eval=frame,"
+    "crop=1080:1920:(in_w-1080)/2+16*t/5+6*sin(2*PI*t/1.7):(in_h-1920)/2+6*sin(2*PI*t/1.1)",
+    # 5 miniature city — pull up off the model
+    "scale=w='1080*(1.23-0.17*t/5)':h='1920*(1.23-0.17*t/5)':eval=frame,"
     "crop=1080:1920:(in_w-1080)/2+8*sin(2*PI*t/1.8):"
-    "max(0\\,in_h-1920-8-70*t/5)+6*sin(2*PI*t/1.4)",
-    # 6 father/child: gentle push, softer shake
-    "scale=w='1080*(1.03+0.07*t/5)':h='1920*(1.03+0.07*t/5)':eval=frame,"
-    "crop=1080:1920:(in_w-1080)/2+6*sin(2*PI*t/1.9):(in_h-1920)/2+5*sin(2*PI*t/1.5)",
-    # 7 Cyclops: aggressive handheld push on the take
-    "scale=w='1080*(1.07+0.11*t/5)':h='1920*(1.07+0.11*t/5)':eval=frame,"
+    "max(0\\,(in_h-1920)/2+30-55*t/5)+6*sin(2*PI*t/1.4)",
+    # 6 hug — slower reveal of the silk and stage
+    "scale=w='1080*(1.18-0.12*t/5)':h='1920*(1.18-0.12*t/5)':eval=frame,"
+    "crop=1080:1920:(in_w-1080)/2+7*sin(2*PI*t/1.9):(in_h-1920)/2+6*sin(2*PI*t/1.5)",
+    # 7 visor fire — aggressive handheld reveal
+    "scale=w='1080*(1.21-0.15*t/5)':h='1920*(1.21-0.15*t/5)':eval=frame,"
     "crop=1080:1920:(in_w-1080)/2+16*sin(2*PI*t/0.95)+8*sin(2*PI*t/0.38):"
     "(in_h-1920)/2+12*sin(2*PI*t/0.72)+7*sin(2*PI*t/0.33)",
-    # 8 Thor: push + shake matching energy
-    "scale=w='1080*(1.05+0.12*t/5)':h='1920*(1.05+0.12*t/5)':eval=frame,"
+    # 8 lightning gimbal — pull back to Tesla coils + console
+    "scale=w='1080*(1.22-0.16*t/5)':h='1920*(1.22-0.16*t/5)':eval=frame,"
     "crop=1080:1920:(in_w-1080)/2+12*sin(2*PI*t/1.05)+5*sin(2*PI*t/0.4):"
     "(in_h-1920)/2+9*sin(2*PI*t/0.82)",
-    # 9 Doom from behind: pan right across set
-    "scale=1260:2240,"
-    "crop=1080:1920:min(in_w-1080\\,8+90*t/5)+6*sin(2*PI*t/1.55):"
+    # 9 wasteland statues — pan while revealing the orange volume
+    "scale=w='1080*(1.20-0.14*t/5)':h='1920*(1.20-0.14*t/5)':eval=frame,"
+    "crop=1080:1920:min(in_w-1080\\,8+80*t/5)+6*sin(2*PI*t/1.55):"
     "(in_h-1920)/2+7*sin(2*PI*t/1.3)",
-    # 10 masked hero: slow pull back (reveal more crew)
-    "scale=w='1080*(1.16-0.10*t/5)':h='1920*(1.16-0.10*t/5)':eval=frame,"
+    # 10 hydraulic platform — pull back off Doom to crew console
+    "scale=w='1080*(1.24-0.18*t/5)':h='1920*(1.24-0.18*t/5)':eval=frame,"
     "crop=1080:1920:(in_w-1080)/2+8*sin(2*PI*t/1.45):(in_h-1920)/2+6*sin(2*PI*t/1.15)",
 ]
 
@@ -136,13 +136,12 @@ def encode_clip(i: int):
 
 
 def make_thumbnail():
-    """CTR crop from the strongest character BTS still (front Doom + crew)."""
-    src = STILL_DIR / "bts_10.png"
+    """CTR crop: throne + blue screen + crew (viral BTS-channel thumb)."""
+    src = STILL_DIR / "bts_01.png"
     dst = OUT / "THUMBNAIL.png"
-    # Tighter 9:16 on the masked figure, punch contrast.
     vf = (
-        "crop=792:1408:116:40,scale=1080:1920:flags=lanczos,setsar=1,"
-        "eq=contrast=1.10:saturation=1.14:brightness=0.03,unsharp=5:5:0.7:5:5:0.0"
+        "crop=792:1408:116:64,scale=1080:1920:flags=lanczos,setsar=1,"
+        "eq=contrast=1.12:saturation=1.16:brightness=0.02,unsharp=5:5:0.8:5:5:0.0"
     )
     run(
         [FFMPEG, "-y", "-i", str(src), "-vf", vf, "-frames:v", "1", str(dst)],
